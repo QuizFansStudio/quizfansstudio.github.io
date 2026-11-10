@@ -1,0 +1,48 @@
+GOOGLE PLAY CONSOLE URLS - Quiz Fans Studio
+Generated: June 8, 2026
+
+Block Puzzle Game: Vortex
+Package: com.blockbustervortex
+Privacy Policy URL: https://quizfansstudio.github.io/BlockBusterVortex/privacy.html
+Terms URL: https://quizfansstudio.github.io/BlockBusterVortex/terms.html
+Google Play URL: https://play.google.com/store/apps/details?id=com.blockbustervortex
+
+Mahjong: Royal Tile Match
+Package: com.mahjong.puzzlematch.math
+Privacy Policy URL: https://quizfansstudio.github.io/MahjongBrainTraining/privacy.html
+Terms URL: https://quizfansstudio.github.io/MahjongBrainTraining/terms.html
+Google Play URL: https://play.google.com/store/apps/details?id=com.mahjong.puzzlematch.math
+
+Flirty Vibes: Truth or Dare
+Package: com.loveflirtyquiz.app
+Privacy Policy URL: https://quizfansstudio.github.io/FunnyQuiz/privacy.html
+Terms URL: https://quizfansstudio.github.io/FunnyQuiz/terms.html
+Google Play URL: https://play.google.com/store/apps/details?id=com.loveflirtyquiz.app
+
+Couples Dare: Couple Games
+Package: com.lauri.couplesdare
+Privacy Policy URL: https://quizfansstudio.github.io/CouplesDare/privacy.html
+Terms URL: https://quizfansstudio.github.io/CouplesDare/terms.html
+Google Play URL: https://play.google.com/store/apps/details?id=com.lauri.couplesdare
+
+Ultimatum: QR File Transfer
+Package: com.ultimatum.flashshare
+Privacy Policy URL: https://quizfansstudio.github.io/UltimatumShare/privacy.html
+Terms URL: https://quizfansstudio.github.io/UltimatumShare/terms.html
+Google Play URL: https://play.google.com/store/apps/details?id=com.ultimatum.flashshare
+
+Legacy Ultimatum Share root URLs also included:
+Privacy Policy URL: https://quizfansstudio.github.io/privacy.html
+Terms URL: https://quizfansstudio.github.io/terms.html
+
+
+SeeU (beta, not yet approved for public release)
+Package: com.seeu.prototype (verify release applicationId before Play submission)
+Website: https://quizfansstudio.github.io/seeu/
+Privacy Policy URL: https://quizfansstudio.github.io/seeu/privacy/
+Terms URL: https://quizfansstudio.github.io/seeu/terms/
+Account Deletion URL: https://quizfansstudio.github.io/seeu/delete-account/
+Support URL: https://quizfansstudio.github.io/seeu/support/
+Circle Invitations: https://quizfansstudio.github.io/seeu/invite/?code=INVITE_CODE
+Developer: Laurențiu Iancu (Quiz Fans Studio), Romania
+Status: Documents for beta; Billing, server retention and account deletion under verification.
