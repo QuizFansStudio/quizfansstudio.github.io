@@ -1,5 +1,6 @@
 GOOGLE PLAY CONSOLE URLS - Quiz Fans Studio
-Generated: June 8, 2026
+Updated: November 10, 2026
+Status: Reference map of public URLs; NOT proof of current Google Play Console settings.
 
 Block Puzzle Game: Vortex
 Package: com.blockbustervortex
@@ -15,8 +16,8 @@ Google Play URL: https://play.google.com/store/apps/details?id=com.mahjong.puzzl
 
 Flirty Vibes: Truth or Dare
 Package: com.loveflirtyquiz.app
-Privacy Policy URL: https://quizfansstudio.github.io/FunnyQuiz/privacy.html
-Terms URL: https://quizfansstudio.github.io/FunnyQuiz/terms.html
+Privacy Policy URL: https://quizfansstudio.github.io/FlirtyVibes/privacy.html
+Terms URL: https://quizfansstudio.github.io/FlirtyVibes/terms.html
 Google Play URL: https://play.google.com/store/apps/details?id=com.loveflirtyquiz.app
 
 Couples Dare: Couple Games
@@ -31,13 +32,13 @@ Privacy Policy URL: https://quizfansstudio.github.io/UltimatumShare/privacy.html
 Terms URL: https://quizfansstudio.github.io/UltimatumShare/terms.html
 Google Play URL: https://play.google.com/store/apps/details?id=com.ultimatum.flashshare
 
-Legacy Ultimatum Share root URLs also included:
+Legacy Ultimatum Share root URLs also available (do not delete before checking references):
 Privacy Policy URL: https://quizfansstudio.github.io/privacy.html
 Terms URL: https://quizfansstudio.github.io/terms.html
 
 
-SeeU (beta, not yet approved for public release)
-Package: com.seeu.prototype (verify release applicationId before Play submission)
+SeeU: Family GPS Tracker (release status to verify in Play Console)
+Package / Android app ID: com.quizfansstudio.seeu (verify against current build.gradle.kts and Play Console before release)
 Website: https://quizfansstudio.github.io/seeu/
 Privacy Policy URL: https://quizfansstudio.github.io/seeu/privacy/
 Terms URL: https://quizfansstudio.github.io/seeu/terms/
@@ -45,4 +46,17 @@ Account Deletion URL: https://quizfansstudio.github.io/seeu/delete-account/
 Support URL: https://quizfansstudio.github.io/seeu/support/
 Circle Invitations: https://quizfansstudio.github.io/seeu/invite/?code=INVITE_CODE
 Developer: Laurențiu Iancu (Quiz Fans Studio), Romania
-Status: Documents for beta; Billing, server retention and account deletion under verification.
+Status: Verify current Play testing/release status, in-app billing, archive retention and account deletion end-to-end against the latest Android build and Firebase deployment; this reference file does not certify these features.
+
+
+DirectBeam: File Transfer
+Package: com.quizfans.directbeam (verify against latest Play artifact)
+Website: https://quizfansstudio.github.io/DirectBeam/
+Privacy Policy URL: https://quizfansstudio.github.io/DirectBeam/privacy.html
+Terms URL: https://quizfansstudio.github.io/DirectBeam/terms.html
+Windows Companion URL: https://quizfansstudio.github.io/DirectBeam/windows.html
+Data Deletion URL: https://quizfansstudio.github.io/Data-Deletion-Request/
+Windows Companion Release: https://github.com/QuizFansStudio/DirectBeam/releases/tag/windows-companion-v2.3.4
+
+Note: Flirty Vibes official new project pages use /FlirtyVibes/; old /FunnyQuiz/ paths remain accessible as compatibility pages.
+Note: Google Play identity, account ownership, payments, app identifiers and signing keys are unchanged by the website migration.
