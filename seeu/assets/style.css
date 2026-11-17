@@ -20,3 +20,10 @@ code{border-radius:7px;padding:4px 7px;background:#071a35;overflow-wrap:anywhere
 @keyframes seeuFloat{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}@keyframes seeuGlow{0%,100%{box-shadow:0 0 22px #19dfff55,inset 0 0 25px #20e0e823}50%{box-shadow:0 0 45px #19dfff96,inset 0 0 40px #20e0e853}}
 @media(max-width:690px){.site-feature-grid{grid-template-columns:1fr}.site-orbit-art{min-height:320px}.site-ring{width:65%}.site-avatar{width:50px;height:50px}.hero-actions{align-items:flex-start}}
 @media(prefers-reduced-motion:reduce){.brand-icon,.site-ring{animation:none!important}html{scroll-behavior:auto}}
+
+/* SeeU V94 official image gallery */
+.site-gallery{margin:36px 0 32px;padding:18px 0;border-top:1px solid #7dcae829;border-bottom:1px solid #7dcae829}
+.site-gallery>h2{font-size:clamp(24px,3vw,34px);margin:10px 0}.site-gallery>p{font-size:14px;color:#c3d7ed}
+.site-banner{padding:0;margin:20px 0 22px}.site-banner img{width:100%;height:auto;display:block;border-radius:22px;border:1px solid #7fc9fb44;box-shadow:0 18px 40px #0004}
+.site-photo-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}.site-photo-grid figure{min-width:0;margin:0;padding:10px;border:1px solid #6cdcef43;border-radius:18px;background:#102747;box-shadow:inset 0 1px #fff1}.site-photo-grid img{width:100%;height:auto;display:block;border-radius:13px;aspect-ratio:557 / 990;object-fit:cover}.site-photo-grid figcaption{color:#e5f9ff;text-align:center;font-size:12px;font-weight:700;padding:10px 0 4px}
+@media(max-width:760px){.site-photo-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:420px){.site-photo-grid{gap:8px}.site-photo-grid figure{padding:5px}.site-photo-grid figcaption{font-size:11px}}
