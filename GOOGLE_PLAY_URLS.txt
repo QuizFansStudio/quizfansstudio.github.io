@@ -8,10 +8,10 @@ Privacy Policy URL: https://quizfansstudio.github.io/BlockBusterVortex/privacy.h
 Terms URL: https://quizfansstudio.github.io/BlockBusterVortex/terms.html
 Google Play URL: https://play.google.com/store/apps/details?id=com.blockbustervortex
 
-Mahjong: Royal Tile Match
+Mahjong Solitaire: Royal Match
 Package: com.mahjong.puzzlematch.math
-Privacy Policy URL: https://quizfansstudio.github.io/MahjongBrainTraining/privacy.html
-Terms URL: https://quizfansstudio.github.io/MahjongBrainTraining/terms.html
+Privacy Policy URL: https://quizfansstudio.github.io/Mahjong-Puzzle-Match/privacy.html
+Terms URL: https://quizfansstudio.github.io/Mahjong-Puzzle-Match/terms.html
 Google Play URL: https://play.google.com/store/apps/details?id=com.mahjong.puzzlematch.math
 
 Flirty Vibes: Truth or Dare
