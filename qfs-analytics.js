@@ -77,7 +77,7 @@
     let url;try{url=new URL(a.href,location.href);}catch(_){return;}
     if(url.protocol!=='https:'&&url.protocol!=='http:')return;
     if(url.hostname==='play.google.com'&&url.pathname==='/store/apps/details'){
-      const pkg=url.searchParams.get('id');if(apps[pkg])send('google_play_click',{app_package:pkg,app_name:apps[pkg],link_url:'https://play.google.com/store/apps/details?id='+pkg});
+      const pkg=url.searchParams.get('id');if(apps[pkg])send('play_store_click',{app_package:pkg,app_name:apps[pkg],link_url:'https://play.google.com/store/apps/details?id='+pkg});
       return;
     }
     const card=a.closest('article.app-card');
