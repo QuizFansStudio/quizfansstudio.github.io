@@ -50,7 +50,7 @@
     choice = value;
     try{localStorage.setItem(KEY,JSON.stringify({value,time:Date.now()}));}catch(_){}
     panel.hidden = true;
-    settings.focus();
+    settings.focus({preventScroll: true});
     if(value==='accepted'){enable();return;}
     window['ga-disable-'+ID] = true;
     clearAnalyticsCookies();
